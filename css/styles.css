@@ -1,0 +1,12 @@
+#list-out {
+  display: none;
+}
+
+body {
+  background-color: rgba(196,219,148,0.8);
+}
+
+.well {
+  background-color: rgba(77,138,124,0.5);
+  border: 2px rgba(77,138,124,1) solid;
+}
